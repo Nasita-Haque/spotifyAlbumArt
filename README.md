@@ -9,3 +9,5 @@ Step 2: Make sure to add your playlist_id to the .env file as well.
 
 Step 3: To run the code, `node spotifyScript.js`
 *This will make sure to copy the album art (currently set at largest size 640 x 640), title and artist to the csv file. Please check csv file for updated information*
+
+Step 4: Open the CSV file in Excel/CSV Reader to check out the formatted information!
