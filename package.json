@@ -1,0 +1,26 @@
+{
+  "name": "spotifyAlbumArt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spotifyScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nasita-Haque/spotifyAlbumArt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nasita-Haque/spotifyAlbumArt/issues"
+  },
+  "homepage": "https://github.com/Nasita-Haque/spotifyAlbumArt#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "node-fetch": "^2.3.0",
+    "nodejs-base64": "^1.0.3",
+    "request": "^2.88.0"
+  }
+}
