@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Nasita-Haque/spotifyAlbumArt#readme",
   "dependencies": {
+    "csv-writer": "^1.2.0",
     "dotenv": "^7.0.0",
     "node-fetch": "^2.3.0",
     "nodejs-base64": "^1.0.3",
